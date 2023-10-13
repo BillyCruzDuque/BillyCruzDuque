@@ -13,7 +13,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-<a href="https://billycruzduque.dev/" target="_blank">
+<a href="https://billycruzduque.tech/" target="_blank">
 <img src=https://img.shields.io/badge/web-%231E77B5.svg?&style=for-the-badge&logo=siteweb&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
@@ -26,10 +26,9 @@ Desarollador Backend, experto en la construcción de aplicaciones robustas, con 
 
 
 ## Acerca de mi:
-<table><tr><td valign="top" width="50%">
+<table><tr>
+  <td valign="top" width="50%">
 
-
-- 🔭 Actualmente trabajo en [MDBaja](https://www.mdbaja.com.mx/)  
   
 
 
