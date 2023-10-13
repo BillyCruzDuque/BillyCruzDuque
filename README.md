@@ -25,27 +25,6 @@ Desarollador Backend, experto en la construcción de aplicaciones robustas, con 
 <br/>  
 
 
-## Acerca de mi:
-<table><tr>
-  <td valign="top" width="50%">
-
-  
-
-
-</td>
-<td valign="top" width="50%">
-
-
-
-- 🌱 Mi objetivo de este año es aprender las mejores practicas de DevOps  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
